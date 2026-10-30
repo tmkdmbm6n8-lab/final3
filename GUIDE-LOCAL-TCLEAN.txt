@@ -1,0 +1,19 @@
+TCLEAN — GUIDE DE LANCEMENT LOCAL
+=================================
+
+1. Extrayez tout le ZIP dans un dossier sur votre PC.
+2. Installez Node.js LTS si nécessaire : https://nodejs.org/
+3. Double-cliquez sur DEMARRER-TCLEAN.bat.
+4. Lors du premier lancement, le script installe les dépendances. Cela nécessite Internet.
+5. Quand Vite affiche une adresse locale (souvent http://localhost:5173), ouvrez cette adresse dans votre navigateur.
+6. Laissez la fenêtre noire ouverte pendant que vous utilisez le site. Pour arrêter le serveur, appuyez sur Ctrl+C.
+
+IMPORTANT
+---------
+- Ce lancement affiche le projet localement, mais les fonctions connectées à Supabase continuent d'utiliser le backend configuré dans les fichiers .env.
+- Ne partagez pas vos fichiers .env publiquement.
+- Pour publier les modifications sur le site en ligne, il faudra ensuite les envoyer sur GitHub et laisser l'hébergeur redéployer le site.
+
+DIAGNOSTIC
+----------
+Le fichier src/components/tclean/contact-inbox.tsx présent dans cette archive se termine correctement : l'erreur de syntaxe « Expected ')' but found EOF » n'est pas reproduite dans cette copie. Si elle apparaît encore sur votre PC, il est probable que le fichier de votre dossier local soit différent de celui de cette archive.

@@ -1,0 +1,27 @@
+# TClean — Nettoyage de canapés et textiles d'ameublement à Strasbourg
+
+> Entreprise locale de nettoyage de canapés, fauteuils, matelas et chaises en tissu, directement à domicile, à Strasbourg et dans ses alentours.
+
+## Prestations
+
+- [Nos prestations](https://tclean-nettoyage.fr/prestations): Toutes les prestations de nettoyage proposées.
+- [Nettoyage de canapé en tissu](https://tclean-nettoyage.fr/prestations/canape-tissu): Nettoyage à domicile de canapés en tissu.
+- [Nettoyage de canapé d'angle](https://tclean-nettoyage.fr/prestations/canape-angle): Assises, dossiers et méridiennes.
+- [Nettoyage de matelas](https://tclean-nettoyage.fr/prestations/matelas): Une face ou deux faces, à domicile.
+
+## Pages
+
+- [Tarifs](https://tclean-nettoyage.fr/tarifs): Prix TTC selon le type et la taille du mobilier.
+- [Réservation](https://tclean-nettoyage.fr/reservation): Choix d'un créneau parmi les disponibilités ouvertes.
+- [Prestation sur mesure](https://tclean-nettoyage.fr/devis): Demande de devis personnalisé.
+- [Réalisations](https://tclean-nettoyage.fr/realisations): Photos avant / après et vidéos d'interventions.
+- [Zone d'intervention](https://tclean-nettoyage.fr/zone-intervention): Strasbourg et ses alentours.
+- [Avis clients](https://tclean-nettoyage.fr/avis): Avis publiés par les clients.
+- [FAQ](https://tclean-nettoyage.fr/faq): Questions fréquentes.
+- [À propos](https://tclean-nettoyage.fr/a-propos): Présentation de TClean.
+- [Contact](https://tclean-nettoyage.fr/contact): Téléphone 07 44 88 11 70 ou messagerie du site.
+
+## Optional
+
+- [Conditions générales](https://tclean-nettoyage.fr/conditions): Conditions de réservation et de prestation.
+- [Confidentialité](https://tclean-nettoyage.fr/confidentialite): Protection des données personnelles.
